@@ -1,2 +1,3 @@
 pierwsza linijka
 Drugi wiersz
+Trzeci wiersz
